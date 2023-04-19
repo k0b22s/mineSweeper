@@ -50,5 +50,5 @@ all open spaces will indicate the number of mines in the direct vicinity.
  
 ## 3- Credits
 
-* No links or other authors.
+* [info about me] https://k0b22s.github.io/cv_about/
 
