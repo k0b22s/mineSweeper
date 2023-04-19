@@ -41,8 +41,12 @@ else:
     find_mine(minesweeper)  
 
     #print specified coordinates
+    #if coordinates land on a mine, print boom for dramatic effect
+    if minesweeper[lat][long] == "#":
+        print("BOOOMM")
+    
     print(minesweeper[lat][long])
-
+    
     #print mine
     for row in minesweeper:
         print(row)
